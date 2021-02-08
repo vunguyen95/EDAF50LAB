@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/co7647ng/Program/Visual Studio Projects/C++ Course/lab1Fix/cmake/liblab1/list.cc
+iostream
+-
+list.h
+/mnt/c/Users/co7647ng/Program/Visual Studio Projects/C++ Course/lab1Fix/cmake/liblab1/list.h
+
+/mnt/c/Users/co7647ng/Program/Visual Studio Projects/C++ Course/lab1Fix/cmake/liblab1/list.h
+

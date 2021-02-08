@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sum_alt.dir/sum.cc.o  -o sum_alt 
